@@ -1,0 +1,11 @@
+Z_SIZE = 100
+MAX_EPOCH = 100
+CIFAR_100_TRAIN_PATH = './dataset/cifar-100-python/train'
+CIFAR_100_TEST_PATH = './dataset/cifar-100-python/test'
+GEN_LEARNING_RATE = 1e-4
+DIS_LEARNING_RATE = 1e-4
+PRINT_EPOCH = 10
+SAVE_EPOCH = 10
+DECAY_LR = 25
+NUM_SAVE = 16
+BATCH_SIZE = 64
